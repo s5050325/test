@@ -1,5 +1,6 @@
+<?php
 
 $str1 = "pup";
-$echo str1;
+$echo str1+str1;
 
 ?>
